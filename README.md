@@ -31,7 +31,7 @@ We welcome contributions and feedback! Feel free to open issues or submit pull r
 
 ## Copyright
 
-© 2014 All rights reserved.
+© 2024 All rights reserved.
 
 ## Contact
 
