@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# dotenv environment variables file
+.env
+
+# MacOS files
+.DS_Store
+
+# Report or PDF documents
+.pdf
