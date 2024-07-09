@@ -1,0 +1,5 @@
+# dotenv environment variables file
+.env
+
+# MacOS files
+.DS_Store
