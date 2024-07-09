@@ -1,3 +1,6 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
 # dotenv environment variables file
 .env
 
@@ -6,3 +9,4 @@
 
 # Report or PDF documents
 .pdf
+
