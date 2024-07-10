@@ -17,7 +17,7 @@ Welcome to our showcase repository! Here, we present our standout projects to de
   
 - **Project Generating Realistic Faces using GANs**: This project aims to generate realistic human faces using GANs and the CelebA dataset. By training a discriminator to differentiate between real and generated faces, and fine-tuning model parameters, it seeks to produce diverse and high-quality facial images. The project addresses data selection, algorithm suitability, and data preparation to ensure successful implementation.
 
-- **Project House Price of King County**: The goal of this data project is to develop a predictive model for housing prices using a dataset containing various features related to home sales. Our primary focus is to build a regression model to predict house price effectively.
+- **Project House Price of King County**: The goal of this data project is to develop a predictive model for housing prices using a dataset containing various features related to home sales. My primary focus is to build a regression model to predict house price effectively.
   
 - **Project Real-time Financial Market Data Processing with Databricks**: his suite of APIs provide global equity data in 4 different temporal resolutions: (1) daily, (2) weekly, (3) monthly, and (4) intraday, with 20+ years of historical depth. A lightweight ticker quote endpoint and several utility functions such as ticker search and market open/closure status are also included for your convenience. For more details: https://www.alphavantage.co/documentation/
 
