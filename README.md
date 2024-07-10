@@ -14,9 +14,13 @@ Welcome to our showcase repository! Here, we present our standout projects to de
 
 ## Project Structure
 
-- **Project A**: Description of project A.
-- **Project B**: Description of project B.
-- **Project C**: Description of project C.
+- **Project AIChatbotWithLLM**: The project addresses the need for an AI chatbot capable of efficiently retrieving relevant information from large datasets using natural language queries. Leveraging Pinecone's vector search engine and OpenAI's language models, Langchain and Streamlit, we aim to develop a chatbot that provides accurate and contextually relevant responses to user queries. The project focuses on enabling users to search through YouTube encyclopedia using natural language, enhancing accessibility and searchability of video content.
+  
+- **Project Generating Realistic Faces using GANs**: This project aims to generate realistic human faces using GANs and the CelebA dataset. By training a discriminator to differentiate between real and generated faces, and fine-tuning model parameters, it seeks to produce diverse and high-quality facial images. The project addresses data selection, algorithm suitability, and data preparation to ensure successful implementation.
+
+- **Project House Price of King County**: The goal of this data project is to develop a predictive model for housing prices using a dataset containing various features related to home sales. Our primary focus is to build a regression model to predict house price effectively.
+  
+- **Project Real-time Financial Market Data Processing with Databricks**: his suite of APIs provide global equity data in 4 different temporal resolutions: (1) daily, (2) weekly, (3) monthly, and (4) intraday, with 20+ years of historical depth. A lightweight ticker quote endpoint and several utility functions such as ticker search and market open/closure status are also included for your convenience. For more details: https://www.alphavantage.co/documentation/
 
 ## Getting Started
 
