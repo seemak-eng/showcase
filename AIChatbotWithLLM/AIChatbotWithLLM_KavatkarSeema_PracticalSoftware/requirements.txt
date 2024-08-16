@@ -1,0 +1,13 @@
+pandas
+numpy
+pinecone-client
+openai
+langchain
+streamlit
+streamlit_chat
+pinecone-datasets
+pinecone-client
+tqdm
+python-dotenv # Python library that simplifies working with environment variables
+pypdf
+langchain_openai
