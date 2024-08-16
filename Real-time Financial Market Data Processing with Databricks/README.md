@@ -8,6 +8,8 @@
 
 **Dataset:** ALPHA VANTAGE
 
+**Status:** In-progress
+
 **Description:** This suite of APIs provide global equity data in 4 different temporal resolutions: (1) daily, (2) weekly, (3) monthly, and (4) intraday, with 20+ years of historical depth. A lightweight ticker quote endpoint and several utility functions such as ticker search and market open/closure status are also included for your convenience.
 For more details: https://www.alphavantage.co/documentation/ 
 
